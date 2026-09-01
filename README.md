@@ -1,4 +1,4 @@
-# Optimización de Asistencia y Gestión de Citas (C&M)
+<img width="1024" height="768" alt="image" src="https://github.com/user-attachments/assets/5814af23-4432-4359-8c69-5670679c4862" /># Optimización de Asistencia y Gestión de Citas (C&M)
 
 ## Capstone Intermedio 2026
 
@@ -7,7 +7,8 @@
 **Contraparte:** Red de Salud Primaria (CESFAM) de la Municipalidad de Providencia  
 **Estado actual:** En desarrollo
 
-![Foto del equipo](blob:https://gemini.google.com/326802d1-07de-4049-859f-b1e613918667)
+![Foto del equipo](<img width="1024" height="768" alt="image" src="https://github.com/user-attachments/assets/9a875f8a-d7a0-4d6f-85bd-311bb1a20d82" />
+)
 
 ## Descripción
 
