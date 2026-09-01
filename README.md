@@ -49,7 +49,7 @@ Diseñar y validar un prototipo de intervención que aborde una causa prioritari
 | Integrante | Compromiso SMART |
 |---|---|
 | Maximiliano Lopez | Estructurar el repositorio, cargar la documentación base y definir la carta Gantt de entregas para el 26-08-2026. |
-| Crhistopher Castro | Mapear el flujo actual (*as-is*) del paciente desde la asignación de hora hasta la atención para el 26-08-2026. |
+| Crhistopher Castro | Mapear el flujo actual del paciente desde la asignación de hora hasta la atención para el 26-08-2026. |
 | Christopher Piña | Definir la matriz de indicadores clave de ausentismo y el marco de análisis de datos para el 26-08-2026. |
 | Martín Perez | Elaborar el marco de requerimientos y criterios de factibilidad técnica del prototipo para el 26-08-2026. |
 
