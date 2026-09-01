@@ -1,62 +1,95 @@
-# Identidad del equipo y desafío
+# Optimización de Asistencia y Gestión de Citas (C&M)
 
-**Participantes:** Integrantes de C&M  
-**Lugar o modalidad:** Presencial / En línea (Híbrido)
+## Capstone Intermedio 2026
 
-## Objetivo de la sesión
+**Equipo:** C&M (Compromiso & Mejora / Cuidado & Métricas)  
+**Desafío:** Reducción del Ausentismo (*No Show*) en Citas Médicas  
+**Contraparte:** Red de Salud Primaria (CESFAM) de la Municipalidad de Providencia  
+**Estado actual:** En desarrollo
 
-Construir la identidad del equipo, acordar su forma de trabajo y realizar una primera interpretación del desafío Capstone.
+![Foto del equipo](imagenes/S01/foto-equipo.jpg)
 
-## Foto del equipo
+## Descripción
 
-![Foto del equipo](../imagenes/S01/foto-equipo.jpg)
+El proyecto aborda la problemática de las inasistencias a citas médicas (*No Show*) en los Centros de Salud Familiar (CESFAM) de Providencia, las cuales disminuyen la disponibilidad efectiva de horas, extienden los tiempos de espera e impactan la eficiencia de los recursos de salud pública. La iniciativa está orientada a beneficiar a la comunidad de pacientes, personal administrativo y equipos clínicos a través de una intervención basada en evidencia, testeable y centrada en resolver las causas prioritarias de inasistencia en el contexto local.
 
-## Nombre del equipo
+## Equipo
 
-**Nombre:** C&M (Compromiso & Mejora / Cuidado & Métricas)
-
-**¿Por qué lo elegimos?**  
-Representa nuestro enfoque dual hacia el proyecto: el compromiso y la empatía con la salud de las personas usuarias, combinado con el rigor metodológico, el análisis de datos y la mejora continua de procesos.
-
-## Integrantes y roles iniciales
-
-| Integrante | Carrera o especialidad | Rol inicial | Aporte esperado |
+| Integrante | Carrera o especialidad | Rol inicial | Usuario de GitHub |
 |---|---|---|---|
-| Maximiliano Lopez | Ingeniería / Electronica | Coordinación de Proyecto y Gestión de Calidad | Planificar y supervisar el cronograma, asegurar el cumplimiento de las rúbricas de la cátedra, gestionar el repositorio de GitHub y coordinar la entrega oportuna de los hitos. |
-| Martín Pérez | Ingeniería / Industrial | Levantamiento de Procesos y Experiencia de Usuario | Mapear el flujo del paciente desde la asignación de la hora hasta la asistencia/inasistencia, diseñar pautas cualitativas e identificar las barreras del usuario en los CESFAM. |
-| Crhistopher Castro | Ingeniería / Industrial | Análisis de Datos y Métricas de Impacto | Procesar y diagnosticar los datos históricos de No Show, identificar patrones de ausentismo y definir el indicador clave de éxito junto con su metodología de medición. | 
-| Christopher Piña | Ingeniería / Electrónica | Diseño y Validación de Prototipo | Conceptualizar y estructurar la intervención práctica (recordatorio, flujo o herramienta) que aborde la causa prioritaria, asegurando que pueda probarse de forma autónoma sin depender de integraciones complejas. |
+| Maximiliano Lopez | Ingeniería / Gestión | Coordinación de Proyecto y Aseguramiento de Calidad | @maxilopezc |
+| Crhistopher Castro | Ingeniería / Diseño de Servicios | Levantamiento de Procesos y Experiencia de Usuario | @ICRHISPHIS |
+| Christopher Piña | Ingeniería / Analítica de Datos | Análisis de Datos y Métricas de Impacto | @godzillahp75ddr5 |
+| Martín Perez | Ingeniería / Tecnologías Aplicadas | Diseño y Validación de Prototipo | @usuario4 |
 
 ## Valores del equipo
 
-- **Empatía con el entorno:** Comprender las barreras reales de pacientes y la dinámica del personal clínico sin emitir juicios previos.
-- **Rigor basado en evidencia:** Fundamentar cada hallazgo y decisión en datos concretos del contexto local, evitando basarse en suposiciones.
-- **Responsabilidad colectiva y transparencia:** Asumir los avances y dificultades en equipo, comunicando alertas tempranas para resolver bloqueos de forma oportuna.
+- **Empatía con el entorno:** Comprender a fondo las dinámicas, barreras y necesidades reales tanto de los pacientes como del equipo asistencial.
+- **Rigor basado en evidencia:** Fundamentar cada diagnóstico, métrica y propuesta en datos concretos y contrastados del contexto municipal.
+- **Responsabilidad compartida y transparencia:** Asumir los entregables en equipo, comunicando avances y bloqueos a tiempo para mantener el estándar de calidad.
 
-## Normas y contrato de funcionamiento
+## Normas de funcionamiento
 
-1. **Canal y frecuencia de comunicación:** Mensajería instantánea para coordinación rápida y acuerdos diarios.
-2. **Puntualidad y asistencia:** Sesiones semanales de 30 a 45 minutos.
-3. **Distribución y seguimiento de tareas:** Todo entregable se asigna con responsable principal y revisor, finalizando internamente al menos 24 horas antes de la entrega oficial.
-4. **Forma de tomar decisiones:** Consenso fundamentado en evidencia y objetivos del proyecto; en caso de empate, se utiliza votación simple o mediación con el profesor guía.
-5. **Forma de resolver conflictos:** Comunicación constructiva inmediata; si alguien presenta sobrecarga, debe avisar con antelación para redistribuir tareas.
-6. **Responsabilidad de actualizar GitHub:** Mantener el repositorio con documentación ordenada, commits descriptivos y versiones actualizadas al cierre de cada sprint.
+1. **Canales y tiempos de respuesta:** Comunicación operativa por mensajería con compromiso de respuesta menor a 24 horas hábiles; repositorio GitHub como fuente oficial de documentación.
+2. **Puntualidad y reuniones:** Sesión semanal obligatoria de 1 a 2 horas.
+3. **Regla de entrega interna (24h):** Todo informe o avance se consolida y revisa internamente al menos 24 horas antes del hito oficial de la asignatura.
+4. **Cómo resolveremos desacuerdos:** Mediante diálogo fundamentado en las necesidades del usuario y la rúbrica de evaluación; en caso de empate, se recurrirá a votación simple o asesoría docente.
+5. **Cómo registraremos las decisiones:** Mediante actas breves en la bitácora semanal y en la sección de decisiones de este repositorio.
 
-## Primera definición del desafío
+## Desafío inicial
 
-El desafío consiste en diseñar y validar una intervención factible que reduzca el *No Show* (inasistencia a citas médicas) en los CESFAM de Providencia, mejorando la disponibilidad efectiva de horas y el uso de recursos clínicos sin depender de cambios estructurales complejos en los sistemas municipales.
+Buscamos diseñar y validar una intervención factible para disminuir las inasistencias a citas en los CESFAM de Providencia. Sabemos que la inasistencia limita el acceso a la salud, incrementa listas de espera y desaprovecha horas médicas. Aún no conocemos la distribución cuantitativa del ausentismo por especialidad o perfil de usuario en Providencia, ni las limitaciones tecnológicas exactas de sus canales actuales. Debemos comprobar si la falta de un canal simple y oportuno para confirmar/cancelar horas es el factor determinante del *No Show* local.
 
-### Lo que sabemos
+## Objetivo SMART del equipo
 
-- La inasistencia a citas reduce la disponibilidad efectiva de horas médicas y satura los tiempos de espera del sistema.
-- Las causas del ausentismo pueden abarcar fallas en los recordatorios, problemas de accesibilidad, experiencia de usuario o fallas en la organización del proceso.
+Diseñar y validar un prototipo de intervención que aborde una causa prioritaria del *No Show* en los CESFAM de Providencia, respaldado por un diagnóstico local y un plan de prueba con métricas cuantitativas claras.
 
-### Lo que todavía no sabemos
+## Compromisos individuales
 
-- ¿Cuáles son las causas principales y el perfil de los pacientes que registran mayor tasa de inasistencia en Providencia?
-- ¿Qué canales de contacto y sistemas de agendamiento/recordatorio están operando actualmente en la red municipal?
+| Integrante | Compromiso SMART |
+|---|---|
+| Maximiliano Lopez | Estructurar el repositorio, cargar la documentación base y definir la carta Gantt de entregas para el 26-08-2026. |
+| Crhistopher Castro | Mapear el flujo actual (*as-is*) del paciente desde la asignación de hora hasta la atención para el 26-08-2026. |
+| Christopher Piña | Definir la matriz de indicadores clave de ausentismo y el marco de análisis de datos para el 26-08-2026. |
+| Martín Perez | Elaborar el marco de requerimientos y criterios de factibilidad técnica del prototipo para el 26-08-2026. |
 
-### Supuestos que debemos comprobar
+## Usuarios y contexto
 
-- La principal causa de inasistencia es el olvido de la cita y la dificultad para cancelarla oportunamente, junto con la dificultad de movilizacioón.
-- Un sistema de confirmación o recordatorio más accesible aumentaría la liberación y reasignación temprana de horas médicas.
+- **Quiénes viven el problema:** Pacientes de la red de salud primaria de Providencia (que pierden continuidad de atención o no acceden a horas liberadas), personal administrativo (sobrecarga en agendamiento) y profesionales de salud (horas clínicas ociosas).
+- **Dónde ocurre:** En los CESFAM dependientes de la Dirección de Salud de la Municipalidad de Providencia.
+- **Evidencia inicial:** Ficha de desafío Capstone y literatura sobre ausentismo en el sistema de salud primaria chileno.
+
+## Plan inicial
+
+| Actividad | Responsable(s) | Fecha | Estado |
+|---|---|---|---|
+| Configuración de repositorio y carga de actas iniciales | Maximiliano Lopez | 26-08-2026 | Pendiente |
+| Levantamiento del proceso actual y puntos de fricción | Crhistopher Castro | 26-08-2026 | Pendiente |
+| Estructuración de requerimientos de datos y métricas de éxito | Christopher Piña | 26-08-2026 | Pendiente |
+| Elaboración de la pauta de diagnóstico con la contraparte | Martín Perez | 26-08-2026 | Pendiente |
+
+## Índice de la bitácora
+
+- [S01 - Identidad del equipo y desafío](bitacora/S01.md)
+- [S02 - Levantamiento inicial](bitacora/S02.md)
+- [S03 - Empatizar](bitacora/S03.md)
+
+## Evidencias principales
+
+- [Ficha oficial del desafío Capstone Intermedio](documentos/ficha_desafio.pdf)
+- [Acta de acuerdos y Team Charter S01](bitacora/S01.md)
+
+## Decisiones relevantes
+
+| Fecha | Decisión | Evidencia o criterio utilizado |
+|---|---|---|
+| 31-08-2026 | Adopción de la identidad C&M y distribución de 4 roles especializados | Definición de focos operativos según requerimientos del desafío y competencias del equipo. |
+| 31-08-2026 | Enfoque de prototipo de validación autónoma | Criterio de éxito de la ficha: evitar depender de integraciones tecnológicas complejas a nivel municipal. |
+
+## Próximo hito
+
+Levantar el diagnóstico del proceso actual e identificar las causas abordables del *No Show*, comprobando su cumplimiento mediante la entrega y revisión de la bitácora S02 junto a los instrumentos de diagnóstico preparados.
+
+## Uso y licencia
+
+Por definir con el equipo docente y la contraparte municipal. No reutilizar ni publicar información reservada o sensible sin autorización expresa.
