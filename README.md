@@ -7,7 +7,7 @@
 **Contraparte:** Red de Salud Primaria (CESFAM) de la Municipalidad de Providencia  
 **Estado actual:** En desarrollo
 
-![Foto del equipo](imagenes/S01/foto-equipo.jpg)
+![Foto del equipo](blob:https://gemini.google.com/326802d1-07de-4049-859f-b1e613918667)
 
 ## Descripción
 
