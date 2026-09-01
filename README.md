@@ -71,8 +71,6 @@ Diseñar y validar un prototipo de intervención que aborde una causa prioritari
 ## Índice de la bitácora
 
 - [S01 - Identidad del equipo y desafío](bitacora/s01.md)
-- [S02 - Levantamiento inicial](bitacora/s02.md)
-- [S03 - Empatizar](bitacora/s03.md)
 
 ## Evidencias principales
 
