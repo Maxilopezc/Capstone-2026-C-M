@@ -77,7 +77,7 @@ Diseñar y validar un prototipo de intervención que aborde una causa prioritari
 ## Evidencias principales
 
 - [Ficha oficial del desafío Capstone Intermedio](documentos/ficha_desafio.pdf)
-- [Acta de acuerdos y Team Charter S01](bitacora/S01.md)
+- [Acta de acuerdos y Team Charter S01](bitacora/s01.md)
 
 ## Decisiones relevantes
 
